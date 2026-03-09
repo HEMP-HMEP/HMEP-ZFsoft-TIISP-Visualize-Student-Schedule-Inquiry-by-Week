@@ -1,16 +1,16 @@
 // ==UserScript==
 
-// @name         正方教务系统“信息查询”添加“学生课表查询（按周次）”元素
+// @name         湖南机电职院教务系统“信息查询”添加“学生课表查询（按周次）”元素
 
 // @version      1.0
 
-// @description  在正方教务系统首页的“信息查询”菜单中添加“学生课表查询（按周次）”项（需后端未被禁用）。
+// @description  在正方教务系统首页的“信息查询”菜单中添加“学生课表查询（按周次）”项（适配湖南机电教务系统地址，分支至Short-Arm-Ape/ZFsoft-TIISP-Visualize-Student-Schedule-Inquiry-by-Week）
 
-// @homepage     https://github.com/Short-Arm-Ape/ZFsoft-TIISP-Visualize-Student-Schedule-Inquiry-by-Week
+// @author       短臂猿-Short_Arm_Ape raccoon
 
-// @author       短臂猿-Short_Arm_Ape
+// @match        http://172.16.101.107/jwglxt/xtgl/index_initMenu.html*
 
-// @match        *://*/jwglxt/xtgl/index_initMenu.html*
+// @match        *://webvpn.hnjdzy.edu.cn/http/77726476706e69737468656265737421a1a013d2766626012e59c7fdc802/jwglxt/xtgl/index_initMenu.html*
 
 // @icon         https://cloud.zfsoft.com:6143/jwglxt/logo/favicon.ico
 
